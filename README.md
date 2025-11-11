@@ -1,1 +1,1 @@
-# proyecto-react-
+"agregada descripcion basica de react en README.md"
